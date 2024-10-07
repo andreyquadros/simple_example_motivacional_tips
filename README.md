@@ -7,12 +7,12 @@ Uma aplicação simples desenvolvida em Flutter que permite aos usuários adicio
 ## 🖼️ Screenshots
 
 ### Tela Inicial
-![](Screenshot_20241007_145824.png)
-![](Captura de tela 2024-10-07 150345.png)
+<img src="https://github.com/andreyquadros/simple_example_motivacional_tips/blob/master/Screenshot_20241007_145926.png" alt="Frase Motivacional" width="300"/>
+<img src="https://github.com/andreyquadros/simple_example_motivacional_tips/blob/master/Captura%20de%20tela%202024-10-07%20150345.png" alt="Frase Motivacional Web" width="300"/>
 
 ### Adicionar Frase
-![](Screenshot_20241007_145926.png)
-![](Captura de tela 2024-10-07 150408.png)
+<img src="https://github.com/andreyquadros/simple_example_motivacional_tips/blob/master/Screenshot_20241007_145824.png" alt="Adicionar Frase" width="300"/>
+<img src="https://github.com/andreyquadros/simple_example_motivacional_tips/blob/master/Captura%20de%20tela%202024-10-07%20150408.png" alt="Adicionar Frase Web" width="300"/>
 
 
 ## 📋 Funcionalidades
