@@ -7,12 +7,12 @@ Uma aplicação simples desenvolvida em Flutter que permite aos usuários adicio
 ## 🖼️ Screenshots
 
 ### Tela Inicial
-![Home Screen](![](Screenshot_20241007_145926.png))
-![Home Screen](![](Captura de tela 2024-10-07 150345.png))
+![](Screenshot_20241007_145824.png)
+![](Captura de tela 2024-10-07 150345.png)
 
 ### Adicionar Frase
-![Add Quote Dialog](![](Screenshot_20241007_145926.png))
-![Add Quote Dialog](![](Captura de tela 2024-10-07 150408.png))
+![](Screenshot_20241007_145926.png)
+![](Captura de tela 2024-10-07 150408.png)
 
 
 ## 📋 Funcionalidades
