@@ -33,11 +33,9 @@ Uma aplicação simples desenvolvida em Flutter que permite aos usuários adicio
 motivational_quotes_app/
 ├── lib/
 │   ├── main.dart         # Arquivo principal com a lógica de aplicação
-│   └── home_screen.dart  # Tela inicial com a lista de frases
-├── assets/
-│   └── images/           # Imagens usadas no README.md
+│   └── motivational_tips_page.dart  # Tela inicial com a lista de frases
 ├── screenshots/
 │   └── home_screen.png   # Screenshot da tela inicial
 │   └── add_dialog.png    # Screenshot do diálogo para adicionar frases
-│   └── quotes_list.png   # Screenshot da lista de frases
+│    
 └── pubspec.yaml          # Definições das dependências do projeto
